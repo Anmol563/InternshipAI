@@ -1,2 +1,2 @@
 # InternshipAI
-This project was built to solve the common challenge of matching interns to suitable projects within a large scheme. 
+This project was built to solve the common challenge of matching interns to suitable projects within a large scheme. Instead of manual sorting, this tool leverages a powerful Large Language Model (LLM) to create a dynamic and interactive recommendation experience. An intern simply provides their skills and interests, and the AI assistant returns a curated list of suitable roles, and can even answer follow-up questions.
